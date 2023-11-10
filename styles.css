@@ -1,0 +1,13 @@
+h1 {
+    color: red;
+}
+p {
+    letter-spacing: 2px;
+    word-spacing: 1px;
+    text-align: justify;
+    font-size: 18px;
+}
+
+i{
+    font-weight: 500;
+}
